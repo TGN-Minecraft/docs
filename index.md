@@ -3,6 +3,7 @@
 ## The Basics
 
 Here's a small list of the basic stuff to know in YML
+Since the website is still being updated, an example is located [here](https://github.com/TGN-Minecraft/docs/blob/master/config.yml)
 
 [Spawns]
 
