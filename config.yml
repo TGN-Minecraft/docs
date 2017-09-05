@@ -1,0 +1,152 @@
+load: STARTUP
+map-details:
+  title: 'Alpine Mining'
+  world: alpine_mining
+  map-version: 1.1
+  version: 0.1
+  amount-of-map-authors:
+    value: 3
+    map-authors:
+      0: rockymine
+      1: DoomRobotBoy
+      2: Rasta_Jol
+  spectator-spawn:
+    x: 66.378
+    y: 57
+    z: -176.508
+
+  modified-regions:
+    amount-of-regions:
+      value: 2
+    0:
+      type: cylinder
+      center: 
+        x: 42.609
+        y: 27
+        z: 321.488
+      radius: 15
+      height: 7
+      modifier:
+        build: false
+        attack: true
+        entry: true
+      team: all
+      message: '&cYou may not build in this team''s spawn!'
+    1:
+      type: cylinder
+      center:
+        x: -41.373
+        y: 27
+        z: -1.0
+      radius: 15
+      height: 7
+      modifier:
+        build: false
+        attack: true
+        entry: true
+      team: all
+      message: '&cYou may not build in this team''s spawn!'
+
+player-inventory:
+  hotbar:
+    amount: 7
+    0:
+      item: iron sword
+      auto-repair: true
+      amount-of-enchantements: 1
+      enchantments:
+        0:
+          type: sharpness
+          level: 1
+      amount: 1
+    1:
+      item: bow
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: true
+      amount: 1
+    2:
+      item: diamond pickaxe
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: true
+      amount: 1
+    3:
+      item: golden apple
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: false
+      amount: 3
+    4:
+      item: stone
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: false  
+      amount: 64
+    5:
+      item: wood
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: false
+      amount: 64
+    6:
+      item: steak
+      amount-of-enchantements: 0
+      enchantments:
+      auto-repair: false
+      amount: 32
+
+inventory:
+  amount: 1
+  0:
+    value: 28
+    item: arrow
+    amount-of-enchantements: 0
+    enchantments:
+    auto-repair: false
+    amount: 64
+
+teams:
+  amount-of-teams: 2
+  0:
+    spawn:
+      x: -41.373
+      y: 27
+      z: -176.508
+    title: Red Team
+    colour: red
+    amount-of-monuments: 2
+    monuments:
+      0:
+        name: East
+        location:
+          x: 22.459
+          y: 35
+          z: -69.428
+      1:
+        name: West
+        location: 
+          x: -19.7
+          y: 33
+          z: -94.4
+  1:
+    spawn: 
+      x: 42.609
+      y: 27
+      z: 321.488
+    title: Blue Team
+    colour: blue
+    amount-of-monuments: 2
+    monuments:
+      0:
+        name: East
+        location: 
+          x: 20.374
+          y: 33
+          z: 239.398
+      1:
+        name: West
+        location: 
+          x: -21.628
+          y: 35
+          z: 214.481
