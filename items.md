@@ -23,7 +23,7 @@ steak = COOKED_BEEF
 
 arrow = ARROW
 
-## Coming Shortly
+***
 
 leather helmet = LEATHER_HELMET
 
