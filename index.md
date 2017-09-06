@@ -26,7 +26,7 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Item-List](https://tgn-minecraft.github.io/docs/items)
 
-[List-Of-Enchantments](https://tgn-minecraft.github.io/docs/enchantments]
+[List-Of-Enchantments](https://tgn-minecraft.github.io/docs/enchantments)
 
 [Region-Modifier-Options]
 
