@@ -7,7 +7,7 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Spawn]
 
-[Inventory]
+[Inventory](https://tgn-minecraft.github.io/docs/inventory)
 
 [Region Modifiers]
 
