@@ -9,23 +9,23 @@ Remember that not all the enchantments will work on all items.
 
 # Enchantment List
 
-ARROW_DAMAGE | Power [bow]
+ARROW_DAMAGE or power | Power [bow]
 
 ARROW_FIRE | Arrow Fire Aspect [bow]
 
-ARROW_INFINITE | Infinity [bow]
+ARROW_INFINITE or infinity | Infinity [bow]
 
 ARROW_KNOCKBACK | Arrow Knockback [bow]
 
 BINDING_CURSE | Item cannot be removed from inventory [any]
 
-DAMAGE_ALL | Sharpness [any/weapon]
+DAMAGE_ALL or sharpness | Sharpness [any/weapon]
 
-DIG_SPEED | Efficiency [tools/pickaxe, axe, shovel, hoe]
+DIG_SPEED or efficiency| Efficiency [tools/pickaxe, axe, shovel, hoe]
 
-DURABILITY |  Unbreaking [any/tools, weapons]
+DURABILITY or unbreaking |  Unbreaking [any/tools, weapons]
 
-FIRE_ASPECT | Fire Aspect [any/weapons]
+FIRE_ASPECT or fire aspect | Fire Aspect [any/weapons]
 
 KNOCKBACK | Knockback [any/weapons]
 
