@@ -19,7 +19,7 @@ ARROW_KNOCKBACK | Arrow Knockback [bow]
 
 BINDING_CURSE | Item cannot be removed from inventory [any]
 
-DAMAGE_ALL | Increase Damage against all targets ; Sharpness [any/weapon]
+DAMAGE_ALL | Sharpness [any/weapon]
 
 DIG_SPEED | Efficiency [tools/pickaxe, axe, shovel, hoe]
 
