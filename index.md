@@ -15,14 +15,14 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Monuments]
 
-[Colors]
+[Colors](https://tgn-minecraft.github.io/docs/colours)
 
 [Items](https://tgn-minecraft.github.io/docs/i)
 
 
 ## Specific Details
 
-[Team-Colors]
+[Team-Colors](https://tgn-minecraft.github.io/docs/colours)
 
 [Item-List](https://tgn-minecraft.github.io/docs/items)
 
