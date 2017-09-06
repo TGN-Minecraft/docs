@@ -5,7 +5,7 @@
 Here's a small list of the basic stuff to know in YML
 Since the website is still being updated, an example is located [here](https://github.com/TGN-Minecraft/docs/blob/master/example.yml)
 
-[Spawns]
+[Spawn]
 
 [Inventory]
 
@@ -17,15 +17,14 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Colors]
 
-[Items]
+[Items](https://tgn-minecraft.github.io/docs/i)
 
-[Effects]
 
 ## Specific Details
 
 [Team-Colors]
 
-[Item-List]
+[Item-List](https://tgn-minecraft.github.io/docs/items)
 
 [Enchantments]
 
@@ -41,4 +40,3 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Hotbar]
 
-[Player-Effects]
