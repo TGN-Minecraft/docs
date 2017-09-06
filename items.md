@@ -68,3 +68,35 @@ sandstone = SANDSTONE
 stone bricks = STONE_BRICKS
 
 bread = BREAD
+
+diamond helmet = DIAMOND_HELMET
+
+diamond chestplate = DIAMOND_CHESTPLATE
+
+diamond leggings = DIAMOND_LEGGINGS
+
+diamond boots = DIAMOND_LEGGINGS
+
+iron helmet = IRON_HELMET
+
+iron chestplate = IRON_CHESTPLATE
+
+iron leggings = IRON_LEGGINGS
+
+iron boots = IRON_BOOTS
+
+chainmail helmet = CHAINMAIL_HELMET
+
+chainmail chestplate = CHAINMAIL_CHESTPLATE
+
+chainmail leggings = CHAINMAIL_LEGGINGS
+
+chainmail boots = CHAINMAIL_BOOTS
+
+gold helmet = GOLDEN_HELMET
+
+gold chestplate = GOLDEN_CHESTPLATE
+
+gold leggings = GOLDEN_LEGGINGS
+
+gold boots = GOLDEN_BOOTS
