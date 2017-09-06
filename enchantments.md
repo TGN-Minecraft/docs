@@ -1,4 +1,4 @@
-#Enchantments
+# Enchantments
 
 Here's a list of enchantments you can apply to an item in our YML. 
 Remember that not all the enchantments will work on all items.
@@ -7,7 +7,7 @@ Remember that not all the enchantments will work on all items.
 
 (ENCHANTMENT NAME to use in YML) = (ENCHANTMENT NAME in MINECRAFT or Description) [SPECIFIC ITEMS/recommended]
 
-#Enchantment List
+# Enchantment List
 
 ARROW_DAMAGE | Power [bow]
 
