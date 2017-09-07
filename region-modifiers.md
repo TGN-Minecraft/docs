@@ -47,17 +47,18 @@ Currently there is only one type, Cylinder.
 You must state the coordiants for the center of the cylinder.
 You must also state the radius & height. 
 
-Below that you see 
-```       modifier:
+Above that you saw
+```      modifier:
         build: false
         attack: true
-        entry: true ```
+        entry: true```
 These are the current set of what you can modify. You can select if a player can build, attack/PVP and/or enter the region. 
 ```false``` means don't allow and ```true``` means allow. In this example players are not allowed to build.
 
+
 ```     team: all
         message: '&cYou may not build in this team''s spawn!'
-        ```
+```
 
 This section means what team this takes effect on. Remember to use the team colour only! If this effects all users, put ```team: all```
 This message section is for when a player does an action which is set to false. You can send a message and you may use colour codes.
