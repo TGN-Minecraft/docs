@@ -9,7 +9,7 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Inventory](https://tgn-minecraft.github.io/docs/inventory)
 
-[Region Modifiers]
+[Region Modifiers](https://tgn-minecraft.github.io/docs/region-modifiers)
 
 [Map Details]
 
@@ -28,15 +28,13 @@ Since the website is still being updated, an example is located [here](https://g
 
 [List-Of-Enchantments](https://tgn-minecraft.github.io/docs/enchantments)
 
-[Region-Modifier-Options]
+[Region-Modifier-Options](https://tgn-minecraft.github.io/docs/region-modifiers)
 
 [Monument-Names]
 
 [Map-Authors]
 
 [Location-Format]
-
-[Common-Integer-Order-Of-Items]
 
 [Hotbar]
 
