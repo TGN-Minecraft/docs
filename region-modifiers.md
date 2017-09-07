@@ -58,7 +58,7 @@ These are the current set of what you can modify. You can select if a player can
 
 
 ```     team: all
-        message: '&cYou may not build in this team''s spawn!'
+        message: '&cYou may not build in this team''s spawn!' 
 ```
 
 This section means what team this takes effect on. Remember to use the team colour only! If this effects all users, put ```team: all```
