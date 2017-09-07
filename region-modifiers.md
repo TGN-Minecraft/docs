@@ -51,7 +51,8 @@ Above that you saw
 ```      modifier:
         build: false
         attack: true
-        entry: true```
+        entry: true
+```
 These are the current set of what you can modify. You can select if a player can build, attack/PVP and/or enter the region. 
 ```false``` means don't allow and ```true``` means allow. In this example players are not allowed to build.
 
