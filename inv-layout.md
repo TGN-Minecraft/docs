@@ -84,7 +84,7 @@ First off, you must state the item name, a list of item names can be found [here
 
 If you want more items added, please submit an issues ticket inside the docs repository. 
 
-State if the item is to automatically repair, and then say the number of enchantments. (If there are no enchants, put 0.)
+State if the item is to automatically repair, and then say the number of enchantments. (If there are no enchants, put 0 and leave ```enchantments:```)
 
 If there is an enchantment please follow the layout
 ```
@@ -99,3 +99,23 @@ Put ```0:``` as the first enchantment, then state type, and what level of enchan
 Reference [here](https://tgn-minecraft.github.io/docs/enchantments) with the list of enchantments.
 
 If there are more than one enchantment repeat the format except change the top number.
+
+## Inventory
+
+For the inventory, it's basically the same.
+
+```
+inventory:
+  amount: 1
+  0:
+    value: 28
+    item: arrow
+    amount-of-enchantements: 0
+    enchantments:
+    auto-repair: false
+    amount: 64
+```
+
+First off, state the amount of items in the player's inventory (excluding the hotbar)
+
+Then, state the value (the slot number) and the rest is the same as the hotbar.
