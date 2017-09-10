@@ -11,7 +11,7 @@ Remember that not all the enchantments will work on all items.
 
 power | ARROW DAMAGE [bow]
 
-Arrow Fire Aspect | ARROW_FIRE [bow]
+arrow fire aspect | ARROW_FIRE [bow]
 
 infinity | ARROW_INFINITE [bow]
 
