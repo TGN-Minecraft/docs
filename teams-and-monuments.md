@@ -63,7 +63,7 @@ teams:
     colour: red
     amount-of-monuments: 2
 ```
-First of you're meant to state how many teams there are, you may state upto 6 teams. 
+First of you're meant to state how many teams there are, you may state upto 7 teams. 
 It should look something like this:
 ```
   amount-of-teams: 2
@@ -120,3 +120,15 @@ Under that list the monuments, the first being ```0:``` and the second being ```
 
 Under that state the monument's name. Monuments can be called anything. Under the monument's name state the location of the obsidian block. 
 Remember to include the coordinates x,y and z. Repeat for the second, third, fourth, etc. Monument. 
+
+## Max amount of monuments per team.
+
+Here's a table for the maximum of monuments per team depending on how many teams there are.
+
+Amount of Teams | Max Amount of Monuments
+2 Teams | 6 Monuments
+3 Teams | 5 Monuments
+4 Teams | 3 Monuments
+5 Teams | 1 Monuments
+6 Teams | 1 Monument
+7 Teams | 1 Monument
