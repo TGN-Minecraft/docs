@@ -3,17 +3,16 @@
 ## The Basics
 
 Here's a small list of the basic stuff to know in YML
-Since the website is still being updated, an example is located [here](https://github.com/TGN-Minecraft/docs/blob/master/example.yml)
+The website is still being updated, an example is located [here](https://github.com/TGN-Minecraft/docs/blob/master/example.yml)
 
-[Spawn]
 
 [Inventory](https://tgn-minecraft.github.io/docs/inventory)
 
 [Region Modifiers](https://tgn-minecraft.github.io/docs/region-modifiers)
 
-[Map Details]
+[Map Details](https://tgn-minecraft.github.io/docs/map-details)
 
-[Monuments]
+[Teams & Monuments](https://tgn-minecraft.github.io/docs/teams-and-monuments)
 
 [Colors](https://tgn-minecraft.github.io/docs/colours)
 
@@ -30,11 +29,13 @@ Since the website is still being updated, an example is located [here](https://g
 
 [Region-Modifier-Options](https://tgn-minecraft.github.io/docs/region-modifiers)
 
-[Monument-Names]
+[Monuments](https://tgn-minecraft.github.io/docs/teams-and-monuments)
+
+[Teams](https://tgn-minecraft.github.io/docs/teams-and-monuments)
 
 [Map-Authors]
 
-[Location-Format]
+[Map-Name]
 
-[Hotbar]
+[Map-Version]
 
