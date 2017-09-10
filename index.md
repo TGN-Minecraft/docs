@@ -33,9 +33,11 @@ The website is still being updated, an example is located [here](https://github.
 
 [Teams](https://tgn-minecraft.github.io/docs/teams-and-monuments)
 
-[Map-Authors]
+[Map-Authors](https://tgn-minecraft.github.io/docs/map-details)
 
-[Map-Name]
+[Map-Name](https://tgn-minecraft.github.io/docs/map-details)
 
-[Map-Version]
+[Map-Version](https://tgn-minecraft.github.io/docs/map-details)
+
+[Spectator-Spawn](https://tgn-minecraft.github.io/docs/map-details)
 
