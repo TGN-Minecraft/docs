@@ -9,38 +9,38 @@ Remember that not all the enchantments will work on all items.
 
 # Enchantment List
 
-ARROW_DAMAGE or power | Power [bow]
+power | ARROW DAMAGE [bow]
 
-ARROW_FIRE | Arrow Fire Aspect [bow]
+Arrow Fire Aspect | ARROW_FIRE [bow]
 
-ARROW_INFINITE or infinity | Infinity [bow]
+infinity | ARROW_INFINITE [bow]
 
-ARROW_KNOCKBACK | Arrow Knockback [bow]
+arrow knockback | ARROW_KNOCKBACK [bow]
 
-BINDING_CURSE | Item cannot be removed from inventory [any]
+no drop | BINDING_CURSE : Item cannot be removed from inventory [any]
 
-DAMAGE_ALL or sharpness | Sharpness [any/weapon]
+sharpness | DAMAGE_ALL [any/weapon]
 
-DIG_SPEED or efficiency| Efficiency [tools/pickaxe, axe, shovel, hoe]
+efficiency| DIG_SPEED [tools/pickaxe, axe, shovel, hoe]
 
-DURABILITY or unbreaking |  Unbreaking [any/tools, weapons]
+unbreaking |  DURABILITY [any/tools, weapons]
 
-FIRE_ASPECT or fire aspect | Fire Aspect [any/weapons]
+fire aspect | FIRE_ASPECT [any/weapons]
 
-KNOCKBACK | Knockback [any/weapons]
+knockback | KNOCKBACK [any/weapons]
 
-PROTECTION_ENVIRONMENTAL | Protect against environmental damage [armour]
+environmental protection | PROTECTION_ENVIRONMENTAL: Protect against environmental damage [armour]
 
-PROTECTION_EXPLOSIONS | Protect again explosive damage [armour]
+explosive protection | PROTECTION_EXPLOSIONS: Protect again explosive damage [armour]
 
-PROTECTION_FALL | Protection against fall damage [armour]
+fall protection | PROTECTION_FALL: Protection against fall damage [armour]
 
-PROTECTION_FIRE | Protection against fire damage [armour]
+fire protection | PROTECTION_FIRE: Protection against fire damage [armour]
 
-PROTECTION_PROJECTILE | Protection agaisnt projectile damage [armour]
+projectile protection | PROTECTION_PROJECTILE: Protection agaisnt projectile damage [armour]
 
-SILK_TOUCH | Silk Touch [Tools/Pickaxe]
+silk touch | SILK_TOUCH [Tools/Pickaxe]
 
-THORNS | Thorns [armour]
+thorns | THORNS [armour]
 
-VANISHING_CURSE | Prevent Item Drops [any/pickaxe]
+vanish drop | VANISHING_CURSE: Item disappears when dropped [any/pickaxe]
